@@ -1,0 +1,1194 @@
+{
+"bgm.battle_champion" : {
+    "sounds" : [
+      {
+        "name" : "bgm/battle_champion"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.battle_dialga_palkia" : {
+    "sounds" : [
+      {
+        "name" : "bgm/battle_dialga_palkia"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.battle_galaxy_gang" : {
+    "sounds" : [
+      {
+        "name" : "bgm/battle_galaxy_gang"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.battle_galaxy_gang_boss" : {
+    "sounds" : [
+      {
+        "name" : "bgm/battle_galaxy_gang_boss"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.battle_galaxy_gang_executive" : {
+    "sounds" : [
+      {
+        "name" : "bgm/battle_galaxy_gang_executive"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.battle_gym_leader" : {
+    "sounds" : [
+      {
+        "name" : "bgm/battle_gym_leader"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.battle_legendary_pokemon" : {
+    "sounds" : [
+      {
+        "name" : "bgm/battle_legendary_pokemon"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.battle_rival" : {
+    "sounds" : [
+      {
+        "name" : "bgm/battle_rival"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.battle_the_heavenly_four" : {
+    "sounds" : [
+      {
+        "name" : "bgm/battle_the_heavenly_four"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.battle_tower" : {
+    "sounds" : [
+      {
+        "name" : "bgm/battle_tower"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.battle_trainer" : {
+    "sounds" : [
+      {
+        "name" : "bgm/battle_trainer"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.battle_uxie_mesprit_azelf" : {
+    "sounds" : [
+      {
+        "name" : "bgm/battle_uxie_mesprit_azelf"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.battle_wild_pokemon" : {
+    "sounds" : [
+      {
+        "name" : "bgm/battle_wild_pokemon"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.bicycle" : {
+    "sounds" : [
+      {
+        "name" : "bgm/bicycle"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.catastrophe" : {
+    "sounds" : [
+      {
+        "name" : "bgm/catastrophe"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.champion_road" : {
+    "sounds" : [
+      {
+        "name" : "bgm/champion_road"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.champion_shirona" : {
+    "sounds" : [
+      {
+        "name" : "bgm/champion_shirona"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.congratulations_on_your_evoluti" : {
+    "sounds" : [
+      {
+        "name" : "bgm/congratulations_on_your_evoluti"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.congratulations_to_your_inducti" : {
+    "sounds" : [
+      {
+        "name" : "bgm/congratulations_to_your_inducti"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.contact_square" : {
+    "sounds" : [
+      {
+        "name" : "bgm/contact_square"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.contest_dress_up" : {
+    "sounds" : [
+      {
+        "name" : "bgm/contest_dress_up"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.contest_hall" : {
+    "sounds" : [
+      {
+        "name" : "bgm/contest_hall"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.contest_result" : {
+    "sounds" : [
+      {
+        "name" : "bgm/contest_result"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.dance_difficult" : {
+    "sounds" : [
+      {
+        "name" : "bgm/dance_difficult"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.dance_easy" : {
+    "sounds" : [
+      {
+        "name" : "bgm/dance_easy"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.decisive_battle_pokemon_league" : {
+    "sounds" : [
+      {
+        "name" : "bgm/decisive_battle_pokemon_league"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.discovery_with_the_poke_trace" : {
+    "sounds" : [
+      {
+        "name" : "bgm/discovery_with_the_poke_trace"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.ending" : {
+    "sounds" : [
+      {
+        "name" : "bgm/ending"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.evolution" : {
+    "sounds" : [
+      {
+        "name" : "bgm/evolution"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.fight_area_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/fight_area_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.fight_area_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/fight_area_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.forest_manor" : {
+    "sounds" : [
+      {
+        "name" : "bgm/forest_manor"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.forget_move" : {
+    "sounds" : [
+      {
+        "name" : "bgm/forget_move"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.friendly_shop" : {
+    "sounds" : [
+      {
+        "name" : "bgm/friendly_shop"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.futaba_town_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/futaba_town_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.futaba_town_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/futaba_town_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.galaxy_gang_appears" : {
+    "sounds" : [
+      {
+        "name" : "bgm/galaxy_gang_appears"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.galaxy_gang_hakutai_building" : {
+    "sounds" : [
+      {
+        "name" : "bgm/galaxy_gang_hakutai_building"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.galaxy_gang_hideout" : {
+    "sounds" : [
+      {
+        "name" : "bgm/galaxy_gang_hideout"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.game_corner" : {
+    "sounds" : [
+      {
+        "name" : "bgm/game_corner"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.get_accessory" : {
+    "sounds" : [
+      {
+        "name" : "bgm/get_accessory"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.get_badge" : {
+    "sounds" : [
+      {
+        "name" : "bgm/get_badge"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.get_berry" : {
+    "sounds" : [
+      {
+        "name" : "bgm/get_berry"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.get_important_tool" : {
+    "sounds" : [
+      {
+        "name" : "bgm/get_important_tool"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.get_move_machine" : {
+    "sounds" : [
+      {
+        "name" : "bgm/get_move_machine"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.get_poketch_app" : {
+    "sounds" : [
+      {
+        "name" : "bgm/get_poketch_app"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.get_tool" : {
+    "sounds" : [
+      {
+        "name" : "bgm/get_tool"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.great_marsh" : {
+    "sounds" : [
+      {
+        "name" : "bgm/great_marsh"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.gts" : {
+    "sounds" : [
+      {
+        "name" : "bgm/gts"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.gym" : {
+    "sounds" : [
+      {
+        "name" : "bgm/gym"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.hakutai_city_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/hakutai_city_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.hakutai_city_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/hakutai_city_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.hakutai_forest" : {
+    "sounds" : [
+      {
+        "name" : "bgm/hakutai_forest"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.happening_at_the_lake" : {
+    "sounds" : [
+      {
+        "name" : "bgm/happening_at_the_lake"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.hard_mountain" : {
+    "sounds" : [
+      {
+        "name" : "bgm/hard_mountain"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.hikari" : {
+    "sounds" : [
+      {
+        "name" : "bgm/hikari"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.hurry_along" : {
+    "sounds" : [
+      {
+        "name" : "bgm/hurry_along"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.innermost_of_the_hideout" : {
+    "sounds" : [
+      {
+        "name" : "bgm/innermost_of_the_hideout"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.i_took_a_flag_underground" : {
+    "sounds" : [
+      {
+        "name" : "bgm/i_took_a_flag_underground"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.kissaki_city_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/kissaki_city_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.kissaki_city_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/kissaki_city_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.koki" : {
+    "sounds" : [
+      {
+        "name" : "bgm/koki"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.kotobuki_city_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/kotobuki_city_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.kotobuki_city_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/kotobuki_city_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.kurogane_city_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/kurogane_city_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.kurogane_city_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/kurogane_city_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.kurogane_gate" : {
+    "sounds" : [
+      {
+        "name" : "bgm/kurogane_gate"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.kurogane_mine" : {
+    "sounds" : [
+      {
+        "name" : "bgm/kurogane_mine"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.laboratory" : {
+    "sounds" : [
+      {
+        "name" : "bgm/laboratory"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.lake" : {
+    "sounds" : [
+      {
+        "name" : "bgm/lake"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.lake_cave" : {
+    "sounds" : [
+      {
+        "name" : "bgm/lake_cave"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.let_s_go_together" : {
+    "sounds" : [
+      {
+        "name" : "bgm/let_s_go_together"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.level_up" : {
+    "sounds" : [
+      {
+        "name" : "bgm/level_up"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.look_aroma_sister" : {
+    "sounds" : [
+      {
+        "name" : "bgm/look_aroma_sister"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.look_artist" : {
+    "sounds" : [
+      {
+        "name" : "bgm/look_artist"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.look_black_belt" : {
+    "sounds" : [
+      {
+        "name" : "bgm/look_black_belt"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.look_cycling" : {
+    "sounds" : [
+      {
+        "name" : "bgm/look_cycling"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.look_elite_trainer" : {
+    "sounds" : [
+      {
+        "name" : "bgm/look_elite_trainer"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.look_gambler" : {
+    "sounds" : [
+      {
+        "name" : "bgm/look_gambler"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.look_hiker" : {
+    "sounds" : [
+      {
+        "name" : "bgm/look_hiker"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.look_mini_skirt" : {
+    "sounds" : [
+      {
+        "name" : "bgm/look_mini_skirt"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.look_pokemon_collector" : {
+    "sounds" : [
+      {
+        "name" : "bgm/look_pokemon_collector"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.look_sailor" : {
+    "sounds" : [
+      {
+        "name" : "bgm/look_sailor"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.look_shorts_boy" : {
+    "sounds" : [
+      {
+        "name" : "bgm/look_shorts_boy"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.look_twins" : {
+    "sounds" : [
+      {
+        "name" : "bgm/look_twins"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.masago_town_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/masago_town_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.masago_town_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/masago_town_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.mio_city_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/mio_city_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.mio_city_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/mio_city_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.mt_tengan" : {
+    "sounds" : [
+      {
+        "name" : "bgm/mt_tengan"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.mystery_gift" : {
+    "sounds" : [
+      {
+        "name" : "bgm/mystery_gift"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.nagisa_city_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/nagisa_city_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.nagisa_city_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/nagisa_city_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.opening" : {
+    "sounds" : [
+      {
+        "name" : "bgm/opening"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.opening_demo" : {
+    "sounds" : [
+      {
+        "name" : "bgm/opening_demo"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.poffin" : {
+    "sounds" : [
+      {
+        "name" : "bgm/poffin"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.pokemon_center_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/pokemon_center_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.pokemon_center_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/pokemon_center_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.pokemon_league_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/pokemon_league_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.pokemon_league_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/pokemon_league_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.recovery" : {
+    "sounds" : [
+      {
+        "name" : "bgm/recovery"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.risshi_lakefront_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/risshi_lakefront_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.risshi_lakefront_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/risshi_lakefront_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.rival" : {
+    "sounds" : [
+      {
+        "name" : "bgm/rival"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.room_of_glory" : {
+    "sounds" : [
+      {
+        "name" : "bgm/room_of_glory"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_201_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_201_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_201_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_201_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_203_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_203_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_203_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_203_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_205_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_205_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_205_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_205_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_206_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_206_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_206_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_206_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_209_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_209_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_209_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_209_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_210_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_210_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_210_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_210_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_216_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_216_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_216_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_216_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_225_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_225_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_225_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_225_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_228_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_228_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.route_228_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/route_228_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.slot_hit" : {
+    "sounds" : [
+      {
+        "name" : "bgm/slot_hit"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.slot_jackpot" : {
+    "sounds" : [
+      {
+        "name" : "bgm/slot_jackpot"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.sonoo_town_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/sonoo_town_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.sonoo_town_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/sonoo_town_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.spear_pillar" : {
+    "sounds" : [
+      {
+        "name" : "bgm/spear_pillar"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.special_program_follow_the_red" : {
+    "sounds" : [
+      {
+        "name" : "bgm/special_program_follow_the_red"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.super_contest" : {
+    "sounds" : [
+      {
+        "name" : "bgm/super_contest"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.surf" : {
+    "sounds" : [
+      {
+        "name" : "bgm/surf"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.television_station" : {
+    "sounds" : [
+      {
+        "name" : "bgm/television_station"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.the_heavenly_four_appears" : {
+    "sounds" : [
+      {
+        "name" : "bgm/the_heavenly_four_appears"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.the_legendary_pokemon_appears" : {
+    "sounds" : [
+      {
+        "name" : "bgm/the_legendary_pokemon_appears"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.tobari_city_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/tobari_city_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.tobari_city_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/tobari_city_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.underground_passage" : {
+    "sounds" : [
+      {
+        "name" : "bgm/underground_passage"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.victory_against_galaxy_gang" : {
+    "sounds" : [
+      {
+        "name" : "bgm/victory_against_galaxy_gang"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.victory_against_gym_leader" : {
+    "sounds" : [
+      {
+        "name" : "bgm/victory_against_gym_leader"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.victory_against_the_champion" : {
+    "sounds" : [
+      {
+        "name" : "bgm/victory_against_the_champion"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.victory_against_the_heavenly_fo" : {
+    "sounds" : [
+      {
+        "name" : "bgm/victory_against_the_heavenly_fo"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.victory_against_trainer" : {
+    "sounds" : [
+      {
+        "name" : "bgm/victory_against_trainer"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.victory_against_wild_pokemon" : {
+    "sounds" : [
+      {
+        "name" : "bgm/victory_against_wild_pokemon"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.winning_the_contest" : {
+    "sounds" : [
+      {
+        "name" : "bgm/winning_the_contest"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.wi_fi_communication" : {
+    "sounds" : [
+      {
+        "name" : "bgm/wi_fi_communication"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.yosuga_city_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/yosuga_city_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.yosuga_city_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/yosuga_city_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.zui_town_day" : {
+    "sounds" : [
+      {
+        "name" : "bgm/zui_town_day"
+      }
+    ],
+    "subtitle" : "subtitle"
+  },
+"bgm.zui_town_night" : {
+    "sounds" : [
+      {
+        "name" : "bgm/zui_town_night"
+      }
+    ],
+    "subtitle" : "subtitle"
+  }
+}
